@@ -1,0 +1,5 @@
+Pages\AbrirEmailGmail.class
+Pages\BasePage.class
+Pages\LoginGmail.class
+Pages\AbriremailOutlook.class
+Pages\LoginOutlook.class

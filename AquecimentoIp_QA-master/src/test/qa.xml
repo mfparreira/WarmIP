@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="5">
+    <test name="TOTAL-QA.com">
+        <parameter name="browserType" value="CH" />
+        <parameter name="url" value="https://demo.openmrs.org/openmrs/login.htm" />
+        <classes>
+            <class name="org.junit.Test" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
